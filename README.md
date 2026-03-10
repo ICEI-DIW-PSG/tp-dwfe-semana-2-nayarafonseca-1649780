@@ -2,13 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Nayara Fonseca da Silva Dias
+Matricula: 914868
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+Coloque aqui o print da tela de inspeção do seu navegador
+![Jalecos Bordados](images/Print%20Network.png)
 
 
 ## Orientações sobre Linguagem MarkDown
