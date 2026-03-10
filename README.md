@@ -10,6 +10,9 @@ Matricula: 914868
 Coloque aqui o print da tela de inspeção do seu navegador
 ![Jalecos Bordados](images/Print%20Network.png)
 
+Print do resultado apresentado no navegador para o arquivo index.html.
+![Arquivo Hello World](images/Print%20Hello%20World.png)
+
 
 ## Orientações sobre Linguagem MarkDown
 
